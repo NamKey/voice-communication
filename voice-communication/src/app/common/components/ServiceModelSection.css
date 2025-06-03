@@ -1,0 +1,25 @@
+.container {
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #FFFFFF;
+  }
+  
+  .title {
+    font-size: 2em;
+    margin-bottom: 10px;
+    color: #111827;
+  }
+  
+  .subtitle {
+    color: #666;
+    margin-bottom: 40px;
+    color: #111827;
+  }
+ 
+.service-models {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    flex-direction: row;
+}

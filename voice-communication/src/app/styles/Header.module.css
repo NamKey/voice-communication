@@ -1,0 +1,48 @@
+.header {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .navContainer {
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #fff;
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+    margin-right: 20px;
+  }
+  
+  .navContainer nav {
+    display: flex;
+    gap: 15px;
+    flex-grow: 1;
+  }
+
+  .languageAndButton {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .languageButton {
+    background: none;
+    border: none;
+    color: #333;
+    cursor: pointer;
+    font-size: 0.9rem;
+  }
+  
+  .getStartedButton {
+    background-color: #000;
+    color: #fff;
+    padding: 8px 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 0.9rem;
+  }

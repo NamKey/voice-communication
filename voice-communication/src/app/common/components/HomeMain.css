@@ -1,0 +1,50 @@
+.home {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px;
+    background-color: #f8f9fa;
+}
+
+.home-content {
+max-width: 50%;
+}
+
+.home h1 {
+font-size: 2.5rem;
+margin-bottom: 20px;
+color: #000000; /* 검정색 */
+}
+
+.home p {
+font-size: 1.2rem;
+margin-bottom: 20px;
+color: #6B7280;
+}
+
+.home-buttons {
+display: flex;
+gap: 10px;
+}
+
+.explore-button, .contact-button {
+padding: 10px 20px;
+font-size: 1rem;
+border: none;
+cursor: pointer;
+}
+
+.explore-button {
+background-color: #000;
+color: #fff;
+}
+
+.contact-button {
+background-color: #e0e7ff;
+color: #000;
+}
+
+.home-image img {
+max-width: 100%;
+height: auto;
+}

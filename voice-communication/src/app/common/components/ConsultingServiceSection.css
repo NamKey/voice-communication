@@ -1,0 +1,24 @@
+.service-model-section {
+    text-align: center;
+    padding: 20px;
+    background-color: #f8f9fa;
+}
+
+.service-model-section h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #111827;
+}
+
+.service-model-section p {
+    font-size: 16px;
+    color: #6B7280;
+    margin-bottom: 20px;
+}
+
+.service-cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }

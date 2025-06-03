@@ -1,0 +1,19 @@
+
+.certification-card {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    color: #111827;
+}
+
+.certification-card h3 {
+    font-size: 16px;
+    margin-bottom: 10px;
+    color: #111827;
+}
+
+.certification-card p {
+    font-size: 14px;
+    color: #111827;
+}

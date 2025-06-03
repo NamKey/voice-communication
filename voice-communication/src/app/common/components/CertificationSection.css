@@ -1,0 +1,28 @@
+.certification-section {
+    text-align: center;
+    padding: 40px 0;
+    background-color: #f1f3f5; /* 이미지와 일치하는 배경색 */
+}
+
+.certification-section h2 {
+font-size: 24px;
+margin-bottom: 10px;
+color : #111827;
+}
+
+.certification-section p {
+font-size: 16px;
+color: #6c757d;
+margin-bottom: 30px;
+}
+
+.certification-cards {
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;
+}
+
+.certification-cards > div {
+width: 200px;
+margin: 10px;
+}
